@@ -6,10 +6,10 @@ El propósito del curso es *Desarrollar aplicaciones Web que permitan la constru
 
 Durante las unidades se aprenderá sobre el uso de:
 
-*Git + Github
-*HTML
-*CSS
-*Javascript
-*Frameworks de desarrollo
-*PHP + MySQL
-*Ajax
+* Git + Github
+* HTML
+* CSS
+* Javascript
+* Frameworks de desarrollo
+* PHP + MySQL
+* Ajax
